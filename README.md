@@ -1,16 +1,9 @@
 
 ## LIVE DEMO: https://huggingface.co/spaces/janvityagi3/optifyx
 
----
 title: Student Placement Prediction
-emoji: 🎓
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.0.0
-app_file: app.py
-pinned: false
----
+
+
 
 # Student Placement Prediction
 
@@ -44,4 +37,5 @@ A machine learning model that predicts whether a student will get placed based o
 ## Dataset
 
 The model was trained on student performance data including academic records and skill assessments.
+
 
