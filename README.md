@@ -1,3 +1,5 @@
+
+
 ---
 title: Student Placement Prediction
 emoji: 🎓
@@ -41,3 +43,4 @@ A machine learning model that predicts whether a student will get placed based o
 ## Dataset
 
 The model was trained on student performance data including academic records and skill assessments.
+# LIVE DEMO: https://huggingface.co/spaces/janvityagi3/optifyx
